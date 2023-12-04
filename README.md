@@ -8,6 +8,8 @@
 
 # Simple Timer
 
+![](public/timer.png?raw=true)
+
 You will create a basic timer. This timer will show time in minutes, seconds, and milliseconds. The format will be mm:ss:mss, like 01:30:500. It starts at 00:00:000.
 
 ### Features:
